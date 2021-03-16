@@ -1,0 +1,49 @@
+body {
+  margin: 0px;
+  overflow: hidden;
+  font-family: 'Times New Roman', sans-serif;
+}
+
+circle {
+  fill: steelblue;
+}
+
+.line-path {
+  fill: none;
+  stroke: #000000;
+  stroke-width: 3;
+  stroke-linejoin: round;
+}
+
+text {
+  font-size: 2.7em;
+  fill: #000000;
+  font-family: 'Times New Roman', sans-serif;
+}
+
+.tick text {
+  font-size: 2.0em;
+  fill: #000000;
+  font-family: 'Times New Roman', sans-serif;
+  font-weight: Bold
+}
+
+.tick line {
+    stroke:  #808080 ;
+    stroke-width:2;
+    stroke-dasharray:10,4;
+    opacity:0.8;
+}
+
+.axis-label {
+  font-size: 4.0em;
+  fill: #000000;
+  font-family: 'Times New Roman', sans-serif;
+}
+
+.title {
+  font-size: 3em;
+  fill: #000000;
+  font-family: 'Times New Roman', sans-serif;
+  font-weight: Bold
+}

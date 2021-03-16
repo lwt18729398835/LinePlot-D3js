@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="gb2312"?>
+<root id="MyPlot">
+	<name>
+		<ele x="xName" y="yName"/>
+	</name>
+	<unit>
+		<ele x="xUnit" y="yUnit"/>
+	</unit>
+	<data>
+		<ele x="0.1" y="300"/>
+		<ele x="0.2" y="500"/>
+		<ele x="0.3" y="200"/>
+		<ele x="0.8" y="100"/>
+	</data>
+</root>
